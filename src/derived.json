@@ -1,0 +1,7 @@
+{
+  "_comment": "Offsets solved at runtime by ps4/derive.js on a real unit. Re-run the derivation, press 'Dump JSON', and paste it here. Loaded only when firmware matches.",
+  "firmware": "14.00",
+  "console": 4,
+  "ready": false,
+  "derived": {}
+}
