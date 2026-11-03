@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# Revengineer -- updated paths after restructure
+# 2026-11-03
+
+index.html
+jb.html
+assets/css/style.css
+assets/js/launch.js
+assets/img/meme.png
+assets/js/jb.js
+assets/js/core.js
+assets/js/mem.js
+assets/js/int64.js
+assets/js/ps4_offsets.js
+assets/js/afterglow.js
+assets/bin/patchset-1400.bin
+assets/bin/patchset-1352.bin
+assets/bin/hen.bin
+assets/bin/goldhen.bin
+
+NETWORK:
+*
